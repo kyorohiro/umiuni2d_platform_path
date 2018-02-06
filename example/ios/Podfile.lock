@@ -5,13 +5,13 @@ PODS:
 
 DEPENDENCIES:
   - Flutter (from `/Users/kyorohiro/devDart/flutter/bin/cache/artifacts/engine/ios`)
-  - umiuni2d_platform_path (from `/Users/kyorohiro/devDart2/umiuni2d_mini/plugin/umiuni2d_platform_path/ios`)
+  - umiuni2d_platform_path (from `/Users/kyorohiro/devDart2/umiuni2d_platform_path/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: /Users/kyorohiro/devDart/flutter/bin/cache/artifacts/engine/ios
   umiuni2d_platform_path:
-    :path: /Users/kyorohiro/devDart2/umiuni2d_mini/plugin/umiuni2d_platform_path/ios
+    :path: /Users/kyorohiro/devDart2/umiuni2d_platform_path/ios
 
 SPEC CHECKSUMS:
   Flutter: d674e78c937094a75ac71dd77e921e840bea3dbf
